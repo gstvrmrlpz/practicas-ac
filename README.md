@@ -1,4 +1,5 @@
 # practicas-ac
 Código fuente de las prácticas de Arquitectura de Computadores
 
-https://www.openmp.org
+El mejor sitio para aprender: 
+  https://www.openmp.org
